@@ -1,0 +1,13 @@
+﻿Paciente,ATP _in_sn,tiempo,Respondieron al tratamiento?
+ME,0.662,sin tratamiento,sin tratamiento
+ME,0.585,3m de tratamiento,SI
+SL,0.195,sin tratamiento,sin tratamiento
+SL,0.172,3m de tratamiento,SI
+DN,0.227,sin tratamiento,sin tratamiento
+DN,0.185,3m de tratamiento,SI
+URI,0.7716,sin tratamiento,sin tratamiento
+URI,0.2644,3m de tratamiento,SI
+AMC,0.656,sin tratamiento,sin tratamiento
+AMC,0.66,3m de tratamiento,NO
+TML, 0.622,sin tratamiento,sin tratamiento
+TML,0.785,3m de tratamiento,NO
